@@ -1,0 +1,34 @@
+{
+  "name": "tea34-apollobent",
+  "version": "1.0.0",
+  "description": "Web3 shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Apollobent/tea34-apollobent.git"
+  },
+  "dependencies": {
+    "api-chatfb": "^0.0.1-security",
+    "bip39": "^3.1.0",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.5.0",
+    "fs": "^0.0.1-security",
+    "minti_fulkerson": "^1.0.0",
+    "web3": "^4.3.0"
+  },
+  "keywords": [
+    "[\"utils\"",
+    "\"format\"",
+    "\"money\"",
+    "\"phone\"]"
+  ],
+  "author": "Apollobent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apollobent/tea34-apollobent/issues"
+  },
+  "homepage": "https://github.com/Apollobent/tea34-apollobent#readme"
+}
